@@ -1,3 +1,4 @@
+//same as  program pattern5.cpp but difference there in the printing on no logic diff...........
 #include<iostream>
 using namespace std;
 int main()

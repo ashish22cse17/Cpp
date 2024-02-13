@@ -1,3 +1,8 @@
+//  *  *  *  *  * 
+//  *  *  *  * obtained pattern using this program
+//  *  *  *
+//  *  *
+//  *
 #include<iostream>
 using namespace std;
 int main()

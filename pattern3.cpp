@@ -1,3 +1,8 @@
+// *****
+// *****
+// *****  //this pattern to print using cpp
+// *****
+// *****
 #include<iostream>
 using namespace std;
 int main()

@@ -1,3 +1,9 @@
+// *
+// **
+// ***
+// ****      /////pattern using loop and simple main function
+// *****
+// ******
 #include<iostream>
 using namespace std;
 int main()
@@ -9,7 +15,6 @@ int main()
     cout<<"*"; 
     }
     cout<<endl;
-    cout<<"asjsi";
     }
     return 0;
 }
