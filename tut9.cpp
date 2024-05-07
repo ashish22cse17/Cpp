@@ -6,7 +6,7 @@
 //     |                 |              |
 //sequence str.    selection str.     loop str.
 #include<iostream>
-using namespace std;
+using namespace std; 
 int main()
 {
     //****************if else statement in cpp**********
